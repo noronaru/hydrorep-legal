@@ -14,7 +14,7 @@ permalink: /privacy-policy
 
 # Privacy Policy
 
-**Effective date:** 2026-10-27
+**Effective date:** 2026-10-28
 
 Hydrorep ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is the data controller for the personal data described in this policy. You can reach us at **noronaru@proton.me**.
 
@@ -23,8 +23,7 @@ Hydrorep ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is the d
 - Your training log — workouts, sets, programs, body weight, measurements, photos and profile — is stored **on your phone**. It leaves your phone only for features you turn on: cloud backup, sharing with your other apps, Health Connect and the AI coach.
 - Signing in with Google is **optional**. You need it for cloud backup, for connecting Hydrorep with our InnerWeather and Dozelight apps, and for Plus.
 - **The AI coach and the AI-written program are optional.** When you ask for one, what it needs is sent to **Anthropic**, the maker of Claude, in the United States. We do not keep it.
-- **Ads appear only when you ask for one.** Until Plus is on sale, you can watch a rewarded ad from Google AdMob to open Plus for 24 hours or to get an AI review. Nothing of Google's ad service runs before you first ask for an ad.
-- There is **no analytics and no tracking**, and we do not sell your data.
+- There are **no ads, no analytics and no tracking**, and we do not sell your data.
 - Hydrorep is **not a medical service**.
 
 ## 1. Information on your phone
@@ -37,7 +36,7 @@ The following is stored in the app's storage on your phone:
 - Your body weight log, body measurements and progress photos
 - Your water log
 - The AI coach's reviews you received
-- Reminder times, your language and other app preferences, and small records the app needs, such as when a Plus day ends
+- Reminder times, your language and other app preferences
 
 We have no access to this information unless you turn on one of the features below that sends it. Uninstalling the app, clearing its data, or **Settings → Data → Reset all data** deletes it from your phone.
 
@@ -103,7 +102,7 @@ When Hydrorep talks to our server (sections 6 and 13), **Firebase App Check with
 
 ## 6. The AI coach and the AI-written program (optional)
 
-Both need Google sign-in, and Plus or — until Plus is on sale — a rewarded ad before each request.
+Both come with Plus and need Google sign-in.
 
 **The AI coach.** When you ask for a week's review, Hydrorep sends that week's workouts to our server: exercise names, sets, weights, reps, times, distances and difficulty, your plan, records, training block week and goal — and, if you share them from your other apps, the week's mood scores from InnerWeather and nights from Dozelight (how long and how well you slept, bed and wake times and the night's tags). Never your body weight, age, sex, notes, measurements, photos or name. Hydrorep asks for your agreement before the first review, and again whenever what is sent changes; you can turn the coach off in **Settings → Workout**.
 
@@ -121,21 +120,13 @@ Both need Google sign-in, and Plus or — until Plus is on sale — a rewarded a
 
 ## 7. Plus
 
-Plus is one subscription for Hydrorep, InnerWeather and Dozelight. When it is on sale, it is sold through **Google Play**, which handles payment; we never see your payment details. It belongs to your Google account, so buying it needs Google sign-in.
+Plus is one subscription for Hydrorep, InnerWeather and Dozelight, sold through **Google Play**, which handles payment; we never see your payment details. It belongs to your Google account, so buying it needs Google sign-in.
 
 To check and restore Plus in all three apps, the apps and our server use **RevenueCat** (United States). RevenueCat receives your account's identifier, your purchases and subscription status from Google Play (such as the product, price and dates), and basic information about your phone and the app, such as the Android version, app version, country and IP address. Learn more in [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
 
-**A Plus day.** Until Plus is on sale, a rewarded ad opens everything Plus adds in Hydrorep for 24 hours on this phone (section 8). When it ends is kept on your phone.
+## 8. No ads
 
-## 8. Advertising
-
-Hydrorep shows **rewarded ads** through **Google AdMob**, only when you choose to watch one: to open a Plus day, or before an AI review or program. There are no banners, no ads between screens, and no ad you did not ask for. Nothing of Google's ad service runs on your phone until you first ask for an ad.
-
-From then on, AdMob may collect your phone's advertising ID and app set ID, your IP address, information about your phone and the app, and your interactions with ads, to show ads, measure them, prevent fraud and — where allowed — personalize them. Ads are limited to content rated for teens.
-
-**Your choice.** In the European Economic Area, the UK and Switzerland, Google's consent form asks how ads may use your data, and no ads are loaded until it has your answer. You can change your choice at any time in **Settings → About → Ad privacy choices**. Your choice is stored on your phone. In any country, you can opt out of personalized ads or delete your advertising ID in your phone's settings.
-
-Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
+Hydrorep shows no ads and contains no advertising SDK; it does not use your phone's advertising ID.
 
 ## 9. Reminders, the widget and notifications
 
@@ -152,7 +143,7 @@ Hydrorep is not directed at children under 13, and we do not knowingly collect p
 ## 12. Where your data is processed
 
 - **European Union:** cloud backup, the summaries you share and what you read from our other apps (Google Cloud Firestore).
-- **United States:** Google sign-in and App Check (Firebase), our server and its usage records (Google Cloud), the AI coach and program (Anthropic), purchases (RevenueCat) and ads (Google AdMob, which may also process data in other countries).
+- **United States:** Google sign-in and App Check (Firebase), our server and its usage records (Google Cloud), the AI coach and program (Anthropic) and purchases (RevenueCat).
 
 If you live in Türkiye, the European Union or another country, this means some of your data is transferred abroad. We rely on the safeguards the law requires for these transfers.
 
@@ -164,7 +155,7 @@ If you live in Türkiye, the European Union or another country, this means some 
 
 <!-- Lawyer review: confirm each basis under both KVKK (arts. 5 and 6) and GDPR (arts. 6 and 9). -->
 
-**Legal bases.** We rely on **your explicit consent** for sharing with your other apps, the AI coach and Health Connect; on **your consent** for cloud backup and, where the law requires it, for personalized ads; on **providing the service you ask for** (our contract with you) for Google sign-in, the AI-written program, Plus and deleting your account; and on **our legitimate interests** in keeping the service secure and preventing abuse (App Check, usage limits and reviewing reports).
+**Legal bases.** We rely on **your explicit consent** for sharing with your other apps, the AI coach and Health Connect; on **your consent** for cloud backup; on **providing the service you ask for** (our contract with you) for Google sign-in, the AI-written program, Plus and deleting your account; and on **our legitimate interests** in keeping the service secure and preventing abuse (App Check, usage limits and reviewing reports).
 
 **Your rights.** Depending on where you live — including under the Turkish Personal Data Protection Law (KVKK) and the EU General Data Protection Regulation (GDPR) — you may have the right to access, correct or delete your personal data, to receive a copy in a portable format, to object to or restrict its processing, and to withdraw consent at any time.
 

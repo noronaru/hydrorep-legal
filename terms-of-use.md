@@ -12,7 +12,7 @@ permalink: /terms-of-use
 
 # Terms of Use
 
-**Effective date:** 2026-10-27
+**Effective date:** 2026-10-28
 
 These Terms of Use ("Terms") govern your use of the Hydrorep app ("the app"), provided by **Noronaru** ("we", "us"). By using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
@@ -33,7 +33,7 @@ You must be at least **13 years old** to use Hydrorep. If you are under 18, or u
 - They are **optional** and are written automatically by a third-party AI service.
 - Their advice **can be inaccurate, incomplete or unsuitable** for you, and does not replace a qualified coach or a doctor. Apply it with care.
 - If a review or program seems harmful, wrong or inappropriate, please report it in the app.
-- They are subject to limits and to the availability of ads and third-party services.
+- They come with Plus and are subject to limits and to the availability of third-party services.
 
 How data is handled for them is described in our [Privacy Policy](./privacy-policy).
 
@@ -45,21 +45,20 @@ Signing in with Google is optional. Hydrorep, InnerWeather and Dozelight share o
 
 The workouts, programs, notes, measurements and photos you create belong to you. They are stored on your phone. Unless you turn on cloud backup (which needs Google sign-in and never includes progress photos), **you are responsible for keeping copies**, for example with **Export** in **Settings → Data** — data can be lost if you uninstall the app, clear its data or lose your phone.
 
-## 6. Plus and ads
+## 6. Plus
 
-Plus is one optional subscription for Hydrorep, InnerWeather and Dozelight. Until it is on sale, watching a rewarded ad opens everything Plus adds in Hydrorep for 24 hours on the phone where you watched it ("a Plus day"), and an ad comes before each AI review or program. Ads are provided by Google AdMob, and their availability is not guaranteed. We may change what Plus includes, and how it is opened, at any time.
+<!-- Lawyer review: Turkish distance-sales rules and EU consumer law on subscriptions, automatic
+     renewal, free trials and the right of withdrawal. -->
 
-<!-- Add when Plus goes on sale (lawyer review: Turkish distance-sales rules and EU consumer law
-     on subscriptions, automatic renewal, free trials and the right of withdrawal):
+Plus is one optional subscription for Hydrorep, InnerWeather and Dozelight.
 
-- Plus is sold through Google Play and belongs to your Google account, so it is on in all three apps.
-- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal;
-  Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
+- It is sold through Google Play and belongs to your Google account, so it is on in all three apps.
+- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
 - If a free trial is offered, it becomes a paid subscription unless you cancel before the trial ends.
-- Payment, refunds and cancellation are handled by Google Play under its terms.
-- AI features in Plus keep their limits. We may change what Plus includes; we will tell you before
-  any price change.
--->
+- Prices are shown in Google Play before you buy. Payment, refunds and cancellation are handled by Google Play under its terms.
+- AI features in Plus keep their limits. We may change what Plus includes; we will tell you before any price change.
+
+Everything Hydrorep does without Plus stays free, with no ads.
 
 ## 7. Acceptable use
 
@@ -75,7 +74,7 @@ We may limit or block access if these rules are broken.
 
 ## 8. Third-party services and content
 
-The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, Health Connect, AdMob and Google Play), Anthropic for the AI coach and program, and RevenueCat for Plus. Your use of those features is also subject to their terms and policies. The exercise drawings are by RepDB ([repdb.co](https://repdb.co)), used under its licence. InnerWeather and Dozelight are separate apps with their own terms; sharing between our apps happens only when you turn it on.
+The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, Health Connect and Google Play), Anthropic for the AI coach and program, and RevenueCat for Plus. Your use of those features is also subject to their terms and policies. The exercise drawings are by RepDB ([repdb.co](https://repdb.co)), used under its licence. InnerWeather and Dozelight are separate apps with their own terms; sharing between our apps happens only when you turn it on.
 
 ## 9. Changes to the app
 
