@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="18 18 72 72">
+  <defs><clipPath id="rg"><rect x="18" y="18" width="72" height="72" rx="14.4"/></clipPath>
+    <g id="silhouette"><rect x="27" y="38.508" width="8.705" height="30.984" rx="2.508"/><rect x="72.295" y="38.508" width="8.705" height="30.984" rx="2.508"/><rect x="34.23" y="50.68" width="39.541" height="6.639"/></g>
+  </defs>
+  <g id="background" clip-path="url(#rg)">
+    <rect width="108" height="108" fill="#4FD1E4"/>
+  </g>
+  <g id="foreground" clip-path="url(#rg)">
+    <g id="mark" fill="#04262C"><rect x="27" y="38.508" width="8.705" height="30.984" rx="2.508"/><rect x="72.295" y="38.508" width="8.705" height="30.984" rx="2.508"/><rect x="34.23" y="50.68" width="39.541" height="6.639"/></g>
+  </g>
+</svg>

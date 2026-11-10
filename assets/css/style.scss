@@ -1,0 +1,172 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+// Hydrorep's colours, from the app (src/index.css). The light blue is the app's
+// primary in its dark theme and the icon's ground (assets/icon.svg); text links
+// use the ink the app uses for blue text on light surfaces, so they stay readable.
+// Plain CSS below: GitHub Pages compiles this with libsass, so no Sass min()/max().
+:root {
+  color-scheme: light dark;
+  --hr-blue: #4fd1e4;
+  --hr-link: #0a6577;
+  --hr-bg: #eef5f8;
+  --hr-surface: #ffffff;
+  --hr-surface-alt: #e2eef3;
+  --hr-border: #cfe0e8;
+  --hr-text: #0f2b3a;
+  --hr-text-2: #456777;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --hr-link: #4fd1e4;
+    --hr-bg: #08151d;
+    --hr-surface: #10222d;
+    --hr-surface-alt: #17303d;
+    --hr-border: #244453;
+    --hr-text: #e6f2f7;
+    --hr-text-2: #9eb8c4;
+  }
+}
+
+html,
+body {
+  background: var(--hr-bg);
+}
+
+// The page is a sheet, like the app's cards, between two light-blue lines.
+.container-lg {
+  box-sizing: border-box;
+  max-width: 820px;
+  min-height: 100vh;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 40px 48px 64px !important;
+  background: var(--hr-surface);
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--hr-blue);
+  pointer-events: none;
+}
+
+body::before {
+  left: calc(50% - 413px);
+}
+
+body::after {
+  right: calc(50% - 413px);
+}
+
+@media (max-width: 860px) {
+  .container-lg {
+    padding: 28px 24px 48px !important;
+  }
+
+  body::before {
+    left: 8px;
+  }
+
+  body::after {
+    right: 8px;
+  }
+}
+
+.markdown-body {
+  color: var(--hr-text);
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
+  color: var(--hr-text);
+  font-weight: 700;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  border-bottom: 3px solid var(--hr-blue);
+}
+
+.markdown-body h2 {
+  border-bottom: 1px solid var(--hr-border);
+}
+
+// The site's name at the top of every page, with the app icon.
+.markdown-body > h1:first-child {
+  margin: 0 0 32px;
+  padding: 0;
+  border: 0;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.markdown-body > h1:first-child a {
+  display: inline-flex;
+  align-items: center;
+  color: var(--hr-text);
+  text-decoration: none;
+}
+
+.markdown-body > h1:first-child a::before {
+  content: "";
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+  background: url("../icon.svg") center / contain no-repeat;
+}
+
+.markdown-body > h1:first-child a:hover {
+  background: none;
+}
+
+.markdown-body a {
+  color: var(--hr-link);
+  text-decoration: underline;
+  text-decoration-color: var(--hr-blue);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.markdown-body a:hover {
+  background: rgba(79, 209, 228, 0.16);
+  text-decoration-color: currentColor;
+}
+
+.markdown-body blockquote {
+  color: var(--hr-text-2);
+  border-left-color: var(--hr-blue);
+}
+
+.markdown-body hr {
+  background-color: var(--hr-border);
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  border-color: var(--hr-border);
+}
+
+.markdown-body table tr {
+  background: var(--hr-surface);
+  border-top-color: var(--hr-border);
+}
+
+.markdown-body table tr:nth-child(2n),
+.markdown-body table th {
+  background: var(--hr-surface-alt);
+}
+
+.markdown-body code {
+  background: var(--hr-surface-alt);
+}
