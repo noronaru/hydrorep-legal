@@ -9,7 +9,7 @@ permalink: /privacy-policy
 
 Türkçe: [KVKK Aydınlatma Metni](./aydinlatma-metni)
 
-Hydrorep ("the app") is provided by **Kevser Dinçer Özkurt**, under the brand **Noronaru** ("we", "us"). You can reach us at **noronaru@proton.me**.
+Hydrorep ("the app") is provided by **Kevser Dinçer Özkurt**, under the brand **Noronaru** ("we", "us"). You can reach us at **noronaru.dev@gmail.com**.
 
 ## In short
 
@@ -64,7 +64,7 @@ Google Play gives us sales reports (such as the order number, product, price, da
 
 **Statistics from Google Play.** Google Play gives us statistics about the app, such as installs, ratings, and crash and performance reports, gathered by Google from phones where sharing that with Google is turned on. They don't include your name, your account or what you log. We use them to keep the app working.
 
-**If you write to us.** If you e-mail us, we receive your address and what you write, and use them only to answer you. Our mailbox is at Proton, in Switzerland. We delete the correspondence once it's no longer needed, at the latest 12 months after the last message.
+**If you write to us.** If you e-mail us, we receive your address and what you write, and use them only to answer you. Our mailbox is Gmail, a Google service, so your messages are kept on Google's servers, which may be outside your country. We delete the correspondence once it's no longer needed, at the latest 12 months after the last message.
 
 ## 5. What Hydrorep doesn't do
 
@@ -86,7 +86,7 @@ Hydrorep is not directed at children under 13, and we do not knowingly collect p
 Depending on where you live, including under the Turkish Personal Data Protection Law (KVKK) and the EU General Data Protection Regulation (GDPR), you may have the right to access, correct or delete your personal data, to receive a copy in a portable format, to object to or restrict its processing, and to withdraw consent at any time.
 
 - **What's on your phone** never reaches us, so we can't find, change or delete it for you, and you don't need us to: you can edit or delete entries in the app, export everything in **Settings → Data**, reset it, or uninstall the app.
-- **What we do receive** (section 4): write to **noronaru@proton.me**. We will answer within 30 days, free of charge.
+- **What we do receive** (section 4): write to **noronaru.dev@gmail.com**. We will answer within 30 days, free of charge.
 
 **Legal bases for what we receive.**
 
@@ -110,4 +110,4 @@ When we update this policy, we change the effective date above. If a change affe
 
 ## 11. Contact
 
-Kevser Dinçer Özkurt (Noronaru) — **noronaru@proton.me**
+Kevser Dinçer Özkurt (Noronaru) — **noronaru.dev@gmail.com**

@@ -12,4 +12,4 @@ Hydrorep is a workout tracker provided by Noronaru.
 - [Terms of Use](./terms-of-use)
 - [Questions and answers](./faq)
 
-Contact: noronaru@proton.me
+Contact: noronaru.dev@gmail.com

@@ -11,7 +11,7 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun (KVKK) 10. madd
 
 ## Veri sorumlusu
 
-**Kevser Dinçer Özkurt**, "Noronaru" markasıyla. İletişim: **noronaru@proton.me**
+**Kevser Dinçer Özkurt**, "Noronaru" markasıyla. İletişim: **noronaru.dev@gmail.com**
 
 ## Kısaca
 
@@ -55,7 +55,7 @@ Health Connect'ten okunan bilgiler telefonunuzda kalır ve bize ulaşmaz. İzinl
 |---|---|---|---|---|
 | Plus satış kayıtları (sipariş numarası, ürün, fiyat, tarih, ülke veya bölge); iade ya da ödeme sorununda siparişe ait sınırlı bilgiler | Google Play'in bize sunduğu raporlar | Muhasebe, vergi, iade ve ödeme sorunlarının çözümü | KVKK m. 5/2-c (sözleşmenin ifası), m. 5/2-ç (hukuki yükümlülük) | Kanunen gerekirse yetkili kurumlar ve mali müşavir |
 | Google Play istatistikleri (kurulum sayıları, puanlar, hata ve performans raporları); adınızı, hesabınızı ve kayıtlarınızı içermez | Google Play Console | Uygulamanın düzgün çalışmasını sağlamak | KVKK m. 5/2-f (meşru menfaat) | Aktarılmaz |
-| Bize e-posta yazarsanız e-posta adresiniz ve mesajınız | Bize yazdığınız e-posta | Size yanıt vermek | KVKK m. 5/2-c, m. 5/2-f | Posta kutumuz İsviçre'deki Proton'dadır |
+| Bize e-posta yazarsanız e-posta adresiniz ve mesajınız | Bize yazdığınız e-posta | Size yanıt vermek | KVKK m. 5/2-c, m. 5/2-f | Posta kutumuz Google'ın Gmail hizmetindedir; e-postalar Google'ın yurt dışındaki sunucularında saklanır |
 
 Plus'ın ödemesini Google Play alır ve aboneliği Google hesabınız altında tutar. Bu işlem için Google kendi başına veri sorumlusudur ([Google Gizlilik Politikası](https://policies.google.com/privacy)). Ödeme bilgilerinizi hiçbir zaman görmeyiz.
 
@@ -75,4 +75,4 @@ Veri sorumlusuna başvurarak şu haklarınızı kullanabilirsiniz:
 - Münhasıran otomatik sistemlerle analiz edilmesi sonucunda aleyhinize bir sonuç çıkmasına itiraz etme
 - Kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme
 
-Telefonunuzdaki bilgiler bize ulaşmadığı için onları bulamaz, değiştiremez veya silemeyiz; bunların hepsini uygulamanın içinden kendiniz yapabilirsiniz. Bize ulaşan veriler için başvurunuzu **noronaru@proton.me** adresine iletebilirsiniz. Başvurunuz en geç 30 gün içinde ücretsiz olarak yanıtlanır. Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkınız saklıdır.
+Telefonunuzdaki bilgiler bize ulaşmadığı için onları bulamaz, değiştiremez veya silemeyiz; bunların hepsini uygulamanın içinden kendiniz yapabilirsiniz. Bize ulaşan veriler için başvurunuzu **noronaru.dev@gmail.com** adresine iletebilirsiniz. Başvurunuz en geç 30 gün içinde ücretsiz olarak yanıtlanır. Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkınız saklıdır.

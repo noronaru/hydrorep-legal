@@ -85,4 +85,4 @@ No. It doesn't diagnose, treat or give medical advice. Calorie figures are estim
 
 ### Something else?
 
-Write to **noronaru@proton.me**.
+Write to **noronaru.dev@gmail.com**.

@@ -90,4 +90,4 @@ When we update these Terms, we change the effective date above. If a change is s
 
 ## 15. Contact
 
-Kevser Dinçer Özkurt (Noronaru) — **noronaru@proton.me**
+Kevser Dinçer Özkurt (Noronaru) — **noronaru.dev@gmail.com**
