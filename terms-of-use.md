@@ -3,18 +3,11 @@ title: Hydrorep — Terms of Use
 permalink: /terms-of-use
 ---
 
-<!--
-  Approved by the owners for publishing on 2026-10-27; a lawyer's review is still to come.
-  Consumer protection law in Türkiye and the EU limits which disclaimers and liability limits
-  are enforceable. Hydrorep has no acceptance screen: these terms are linked from Settings →
-  About and the Plus screen. Keep sections 2 and 8 in step with Dozelight's and InnerWeather's.
--->
-
 # Terms of Use
 
-**Effective date:** 2026-10-28
+**Effective date:** 10 November 2026
 
-These Terms of Use ("Terms") govern your use of the Hydrorep app ("the app"), provided by **Noronaru** ("we", "us"). By using the app, you agree to these Terms. If you do not agree, please do not use the app.
+These Terms of Use ("Terms") govern your use of the Hydrorep app ("the app"), provided by **Kevser Dinçer Özkurt**, under the brand **Noronaru** ("we", "us"). By using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
 ## 1. What Hydrorep is — and is not
 
@@ -28,57 +21,50 @@ Hydrorep is a workout tracker for planning, logging and reviewing your training.
 
 You must be at least **13 years old** to use Hydrorep. If you are under 18, or under the age of majority where you live, you may use the app only with permission from a parent or guardian, who accepts these Terms on your behalf.
 
-## 3. The AI coach and the AI-written program
+## 3. The weekly review and the custom program
 
-- They are **optional** and are written automatically by a third-party AI service.
-- Their advice **can be inaccurate, incomplete or unsuitable** for you, and does not replace a qualified coach or a doctor. Apply it with care.
-- If a review or program seems harmful, wrong or inappropriate, please report it in the app.
-- They come with Plus and are subject to limits and to the availability of third-party services.
+- They come with Plus and are worked out on your phone, by fixed rules, from what you logged and the answers you gave.
+- They **can be inaccurate, incomplete or unsuitable** for you, and do not replace a qualified coach or a doctor. Apply them with care.
 
-How data is handled for them is described in our [Privacy Policy](./privacy-policy).
+## 4. No account
 
-## 4. Your account
-
-Signing in with Google is optional. Hydrorep, InnerWeather and Dozelight share one account, so your Google account signs you in to all three, and deleting the account in any of them deletes it for all. You are responsible for keeping your Google account secure.
+Hydrorep has no account and no sign-in. Plus belongs to the Google account you bought it with.
 
 ## 5. Your content
 
-The workouts, programs, notes, measurements and photos you create belong to you. They are stored on your phone. Unless you turn on cloud backup (which needs Google sign-in and never includes progress photos), **you are responsible for keeping copies**, for example with **Export** in **Settings → Data** — data can be lost if you uninstall the app, clear its data or lose your phone.
+The workouts, programs, notes, measurements and photos you create belong to you. They are stored on your phone, and we have no copy we could give you back. **You are responsible for keeping copies**, for example with **Export data** in **Settings → Data**. Data can be lost if you uninstall the app, clear its data or lose your phone. Progress photos are in no backup.
 
 ## 6. Plus
 
-<!-- Lawyer review: Turkish distance-sales rules and EU consumer law on subscriptions, automatic
-     renewal, free trials and the right of withdrawal. -->
+Plus is an optional subscription. We sell it through Google Play.
 
-Plus is one optional subscription for Hydrorep, InnerWeather and Dozelight.
-
-- It is sold through Google Play and belongs to your Google account, so it is on in all three apps.
-- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
+- It belongs to the Google account you buy it with, so it is on wherever you use Hydrorep with that account.
+- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. **Uninstalling the app does not cancel it.**
 - If a free trial is offered, it becomes a paid subscription unless you cancel before the trial ends.
-- Prices are shown in Google Play before you buy. Payment, refunds and cancellation are handled by Google Play under its terms.
-- AI features in Plus keep their limits. We may change what Plus includes; we will tell you before any price change.
+- Prices are shown in Google Play before you buy, and Google Play tells you about a price change before it applies.
+- Payment and cancellation go through Google Play, under its terms. Google Play can refund a purchase under its refund policy. For a refund request or anything else about your purchase, you can also write to us (section 15).
+- We may add to Plus or change it. If a change would make Plus noticeably worse for you, we will tell you before it applies, and you can cancel.
 
-Everything Hydrorep does without Plus stays free, with no ads.
+Nothing in this section limits the rights consumer law gives you, such as a right of withdrawal where it applies.
+
+Plus doesn't work in a modified copy of the app. Hydrorep shows no ads, and everything you need to train stays free, with no limits.
 
 ## 7. Acceptable use
 
 You agree not to:
 
-- Access our server other than through the app, send automated requests, or try to get around Plus or usage limits
-- Interfere with, disrupt or attempt to gain unauthorized access to the app, our server or our database
+- Try to get around Plus, or use or share a modified copy of the app
 - Reverse engineer the app, except where applicable law expressly allows it
 - Copy the app's exercise drawings or guides out of the app
 - Use the app for any unlawful purpose
 
-We may limit or block access if these rules are broken.
-
 ## 8. Third-party services and content
 
-The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, Health Connect and Google Play), Anthropic for the AI coach and program, and RevenueCat for Plus. Your use of those features is also subject to their terms and policies. The exercise drawings are by RepDB ([repdb.co](https://repdb.co)), used under its licence. InnerWeather and Dozelight are separate apps with their own terms; sharing between our apps happens only when you turn it on.
+The app relies on services from Google (Health Connect and Google Play). Your use of those features is also subject to their terms and policies. The exercise drawings are by RepDB ([repdb.co](https://repdb.co)), used under its licence.
 
 ## 9. Changes to the app
 
-We may add, change or remove features, including the AI features, at any time. We may also update their limits.
+We may add, change or remove features at any time.
 
 ## 10. Disclaimer
 
@@ -86,19 +72,17 @@ To the extent permitted by applicable law, the app is provided **"as is" and "as
 
 ## 11. Limitation of liability
 
-To the maximum extent permitted by applicable law, Noronaru is not liable for indirect, incidental, special or consequential damages, or for loss of data, arising from your use of or inability to use the app, including reliance on its suggestions or AI features.
+To the maximum extent permitted by applicable law, Noronaru is not liable for indirect, incidental, special or consequential damages, or for loss of data, arising from your use of or inability to use the app, including reliance on its suggestions.
 
 Nothing in these Terms limits liability that cannot be limited under applicable law — including liability for gross negligence or willful misconduct — or any rights you have as a consumer that cannot be waived.
 
 ## 12. Ending your use
 
-You can stop using Hydrorep at any time by uninstalling it, and delete your account as described in our [Privacy Policy](./privacy-policy). We may suspend or end access to the app or to specific features if required by law or if these Terms are violated.
+You can stop using Hydrorep at any time by uninstalling it. To stop paying for Plus, cancel it in Google Play as well.
 
 ## 13. Governing law
 
 These Terms are governed by the laws of the Republic of Türkiye. This does not take away any protection you have under the mandatory consumer protection laws of the country where you live. If you are a consumer, you may bring a dispute before the consumer arbitration committees or courts that have jurisdiction under applicable law, including those where you live.
-
-<!-- Lawyer review: confirm this wording, including whether EU users need any additional language. -->
 
 ## 14. Changes to these Terms
 
@@ -106,4 +90,4 @@ When we update these Terms, we change the effective date above. If a change is s
 
 ## 15. Contact
 
-Noronaru — **noronaru@proton.me**
+Kevser Dinçer Özkurt (Noronaru) — **noronaru@proton.me**
